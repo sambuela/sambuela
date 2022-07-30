@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chien-Min, Kuo; My introduction is at https://sambuela.wordpress.com
+- 👋 Hi, I’m Chien-Min, Kuo; About me is at https://sambuela.wordpress.com
 - 👀 I’m interested in coding, innovation and Holly Bible
 - 🌱 I’m currently learning AWS, Missile, Bibliometrics
 - 💞️ I’m looking to collaborate on inventor, programmer, author
